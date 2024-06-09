@@ -1,3 +1,5 @@
+# Mainflow-Task1
+Set,list, dictionary
 # Create a list
 my_list = [1, 2, 3, 4, 5]
 print("Initial list:", my_list)
